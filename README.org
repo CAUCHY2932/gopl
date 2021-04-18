@@ -1,0 +1,65 @@
+#+title: The Go Programming Language - gopl
+#+author: aaron
+#+date: <2021-01-17 Sun 14:10>
+
+** learn
+
+** reading
+
+** practice
+
+
+
+** learn schedule
+
++ gopl
++ advanced-gopb
+
+** advance
+
+https://chai2010.cn/advanced-go-programming-book/ch1-basic/readme.html
+
+
+
+
+** 术语
+
+*** 约定
+
+*** 建议
+
+*** 例外
+
+
+** 分支
+
+以15日为界限
+
+personal/cauchy2932/2021_04_fst
+
+personal/cauchy2932/2021_04_scd
+
+
+
+** 查看当前仓库大小
+
+du -sh
+
+** vim 跳转代码
+
+
+通过 ctrl + ] 前向跳转
+
+通过 ctrl + T 回退
+
+** 操作系统版本
+
+
+macos 10.13.6 是比较稳定的版本，建议选择使用
+
+** go test
+
+go test .
+
+go test -v xx.go xx_test.go
+
